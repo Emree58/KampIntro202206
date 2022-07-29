@@ -21,6 +21,7 @@ namespace DegerVeReferansTipler
             //sayilar1[0] 999
 
 
+
         }
     }
 }
