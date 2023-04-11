@@ -23,6 +23,7 @@ namespace DegerVeReferansTipler2
             //sayilar1[0] 999
             //aciklama: array, class, inheritance = referans tip
 
+
         }
     }
 }
