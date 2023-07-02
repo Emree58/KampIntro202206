@@ -25,5 +25,15 @@ namespace GenericsIntro2
 
             items[items.Length - 1] = item;
         }
+        //bilinmedik konu, ögrenilmedi
+        public int Length
+        {
+            get { return items.Length; }
+        }
+
+        public T[] Items
+        {
+            get { return items; }
+        }
     }
 }
